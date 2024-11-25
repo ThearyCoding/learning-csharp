@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\bin\Debug\Midterm Exam.exe.config
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\bin\Debug\Midterm Exam.exe
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\bin\Debug\Midterm Exam.pdb
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm_Exam.Form1.resources
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm_Exam.Properties.Resources.resources
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.exe
+C:\Users\MSI\source\repos\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.pdb

@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\bin\Debug\OOP-C#-WindForm.exe.config
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\bin\Debug\OOP-C#-WindForm.exe
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\bin\Debug\OOP-C#-WindForm.pdb
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP-C#-WindForm.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP_C__WindForm.ProductControl.resources
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP_C__WindForm.Properties.Resources.resources
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP-C#-WindForm.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP-C#-WindForm.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP-C#-WindForm.exe
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP-C#-WindForm.pdb
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP_C__WindForm.OrderProduct.resources
+C:\Users\MSI\source\repos\OOP-C#-WindForm\OOP-C#-WindForm\obj\Debug\OOP_C__WindForm.ViewOrder.resources

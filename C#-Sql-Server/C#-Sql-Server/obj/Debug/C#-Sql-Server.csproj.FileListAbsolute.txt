@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\bin\Debug\C#-Sql-Server.exe.config
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\bin\Debug\C#-Sql-Server.exe
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\bin\Debug\C#-Sql-Server.pdb
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C#-Sql-Server.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.frmAuthentication.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.Properties.Resources.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C#-Sql-Server.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C#-Sql-Server.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C#-Sql-Server.exe
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C#-Sql-Server.pdb
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.FrmLoadPeople.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.OptioneMenu.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.FrmLuckyDraw.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.FrmProduct.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.FrmAddCategories.resources
+C:\Users\MSI\source\repos\C#-Sql-Server\C#-Sql-Server\obj\Debug\C__Sql_Server.FrmOrder.resources

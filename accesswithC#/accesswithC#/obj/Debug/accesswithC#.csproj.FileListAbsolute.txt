@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\bin\Debug\accesswithC#.exe.config
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\bin\Debug\accesswithC#.exe
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\bin\Debug\accesswithC#.pdb
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC_.Form1.resources
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC_.Properties.Resources.resources
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.exe
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.pdb
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\bin\Debug\Guna.UI2.dll
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC#.csproj.CopyComplete
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\obj\Debug\accesswithC_.Product.resources
+C:\Users\MSI\source\repos\accesswithC#\accesswithC#\bin\Debug\Product11.accdb

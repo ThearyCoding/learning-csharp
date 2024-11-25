@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\bin\Debug\Final_OOP.exe.config
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\bin\Debug\Final_OOP.exe
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\bin\Debug\Final_OOP.pdb
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\obj\Debug\Final_OOP.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\obj\Debug\Final_OOP.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\obj\Debug\Final_OOP.exe
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\obj\Debug\Final_OOP.pdb
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\bin\Debug\ConsoleTables.dll
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\bin\Debug\ConsoleTables.pdb
+C:\Users\MSI\source\repos\Final_OOP\Final_OOP\obj\Debug\Final_OOP.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\ProductList\ProductList\bin\Debug\ProductList.exe.config
+C:\Users\MSI\source\repos\ProductList\ProductList\bin\Debug\ProductList.exe
+C:\Users\MSI\source\repos\ProductList\ProductList\bin\Debug\ProductList.pdb
+C:\Users\MSI\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ProductList\ProductList\obj\Debug\ProductList.exe
+C:\Users\MSI\source\repos\ProductList\ProductList\obj\Debug\ProductList.pdb
